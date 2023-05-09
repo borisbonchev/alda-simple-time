@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1e3f0ea-d484-42d8-8de8-5288d1050327" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EAU1J1UFkCqkhMYFHsvLPFjFc1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../traffic-international-12/Implementation/traffic-international-12/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in simpletimeimpl">
+    <configuration name="All in simpletimeimpl (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpletimeimpl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in simpletimeimpl (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpletimeimpl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in simpletimeimpl (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpletimeimpl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in simpletimeimpl (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpletimeimpl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in simpletimeimpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simpletimeimpl" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in simpletimeimpl" />
+        <item itemvalue="JUnit.All in simpletimeimpl (5)" />
+        <item itemvalue="JUnit.All in simpletimeimpl (4)" />
+        <item itemvalue="JUnit.All in simpletimeimpl (3)" />
+        <item itemvalue="JUnit.All in simpletimeimpl (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e3f0ea-d484-42d8-8de8-5288d1050327" name="Changes" comment="" />
+      <created>1662037701821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662037701821</updated>
+      <workItem from="1662037703730" duration="462000" />
+      <workItem from="1663153094118" duration="6000" />
+      <workItem from="1663507328425" duration="2013000" />
+      <workItem from="1663658199840" duration="1567000" />
+      <workItem from="1663678511437" duration="2201000" />
+      <workItem from="1664361148058" duration="550000" />
+      <workItem from="1665489360815" duration="3847000" />
+      <workItem from="1665658287262" duration="53000" />
+      <workItem from="1665658461544" duration="481000" />
+      <workItem from="1666002016606" duration="2000" />
+      <workItem from="1666115640036" duration="7000" />
+      <workItem from="1666196345735" duration="596000" />
+      <workItem from="1666272959799" duration="2000" />
+      <workItem from="1666274537649" duration="597000" />
+      <workItem from="1666284846784" duration="1000" />
+      <workItem from="1666290454285" duration="1000" />
+      <workItem from="1666450954495" duration="9000" />
+      <workItem from="1666451115532" duration="68000" />
+      <workItem from="1666625509430" duration="3000" />
+      <workItem from="1666626440386" duration="596000" />
+      <workItem from="1666662750970" duration="19000" />
+      <workItem from="1666786594098" duration="13000" />
+      <workItem from="1666971932899" duration="6000" />
+      <workItem from="1666986228718" duration="4000" />
+      <workItem from="1667327826751" duration="17000" />
+      <workItem from="1667466072824" duration="184000" />
+      <workItem from="1667489179895" duration="1495000" />
+      <workItem from="1667563914112" duration="829000" />
+      <workItem from="1667572285104" duration="624000" />
+      <workItem from="1670600706913" duration="427000" />
+      <workItem from="1670625548702" duration="19000" />
+      <workItem from="1670688441147" duration="23000" />
+      <workItem from="1670770978131" duration="77000" />
+      <workItem from="1670781138713" duration="51000" />
+      <workItem from="1670794420208" duration="2000" />
+      <workItem from="1670886169245" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl__5_.ic" NAME="All in simpletimeimpl (5) Coverage Results" MODIFIED="1663680109204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl.ic" NAME="All in simpletimeimpl Coverage Results" MODIFIED="1663680126636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl__3_.ic" NAME="All in simpletimeimpl (3) Coverage Results" MODIFIED="1663679958765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl__4_.ic" NAME="All in simpletimeimpl (4) Coverage Results" MODIFIED="1663680032742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl__2_.ic" NAME="All in simpletimeimpl (2) Coverage Results" MODIFIED="1663679841088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/assignment$All_in_simpletimeimpl__1_.ic" NAME="All in simpletimeimpl (1) Coverage Results" MODIFIED="1663679689978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
